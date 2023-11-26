@@ -1,10 +1,16 @@
 # Who am I? 
 Name: Germano Maia Gomes
+
 Job: CEO [G-Dev Society](https://gdevsociety.com.br/)
+
 Hobby: Programmer
+
 Love: Spend some time with close friends
+
 Hate: Losing time and focus
+
 Favorite game: Chess (I like to play only bullet games 1+0 challenge me at [Lichess](https://lichess.org/@/xxgermanoxx)/[Chess.com](https://www.chess.com/member/xxgermanoxx))
+
 Family: I'm currently father of two girls, have two dogs and a lovely girlfriend.
 
 ## Known techs as programmer
